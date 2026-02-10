@@ -194,7 +194,7 @@ footer {
 @media (min-width: 1024px) {
     .fundo-fixo-mobile {
         /* TROCA A IMAGEM APENAS NO PC */
-        background-image: url('fundo-cabelo-d.jpg.jpg');
+        background-image: url('fundo-cabelo-d.jpg');
     }
 
     .wrapper {
