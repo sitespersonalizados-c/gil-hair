@@ -26,4 +26,4 @@ O projeto foi construído para que a lista de serviços mantenha o alinhamento d
 ## 🚀 Como acessar
 
 O site está hospedado no GitHub Pages. Você pode conferir o resultado final aqui:
-`https://cristina1580.github.io/gil-hair/`
+`https://sitespersonalizados-c.github.io/gil-hair/`
